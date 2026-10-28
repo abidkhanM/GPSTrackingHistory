@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPS Tracking History</string>
+    <string name="title_tracking">Tracking</string>
+    <string name="title_trip_history">Trip History</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_airbnb">AirBnb</string>
+</resources>
